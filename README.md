@@ -2,7 +2,7 @@
 
 ## Provding a custom configuration
 
-GraphDoc will check for a the existence of `.well-known/graphql.json` file on the same domain as your GraphQL API. 
+GraphDoc will check for a the existence of `.well-known/graphql.json` file on the same domain as your GraphQL API. So if your API runs on `https://api.example.com/graphql` the config will be expected at `https://api.example.com/.well-known/graphql.json`.
 
 ### Example configuration
 
