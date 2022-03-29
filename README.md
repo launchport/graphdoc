@@ -1,4 +1,4 @@
-# [graphdoc](https://docs.launchport.io)
+# [graphdoc](https://graphdoc.io)
 
 _Instant, beautiful docs for your GraphQL API_
 
