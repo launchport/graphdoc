@@ -1,6 +1,8 @@
-# [graphdoc](https://graphdoc.io)
+<a href="https://graphdoc.io"><img width="350" src="https://user-images.githubusercontent.com/571589/164892737-157220fc-a03b-4806-aa8c-74dac84a4230.svg"></a>
 
-_Instant, beautiful docs for your GraphQL API_
+**Instant, beautiful docs for your GraphQL API**
+
+---
 
 ## Providing a custom configuration
 
